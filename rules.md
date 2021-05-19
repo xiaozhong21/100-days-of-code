@@ -12,6 +12,6 @@ May 18th, 2021.
 3. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 
 ## Contents
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Rules](rules.md)
 * [Resources](resources.md)
