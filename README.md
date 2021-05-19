@@ -3,4 +3,5 @@
 * [Log - click here to see my progress](log.md)
 * [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 * [Rules](rules.md)
+* [Resources](resources.md)
 
