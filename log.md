@@ -1,12 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 4: May 21, 2021
+
+**Today's Progress**:
+1. Finished the module on "files" for Stanford's Code in Place 2021 class;
+2. Did a couple freeCodeCamp algorithm exercices.
+
+**Link to work:** 
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
+**Thoughts:** Algorithm coding challenges can be tricky and sometimes require out-of-the-box solutions. I need to practice this type of questions more and hopefully I can start consistently practicing using LeetCode soon after finishing the freeCodeCamp ones. 
+
+
 ### Day 3: May 20, 2021
 
 
 **Today's Progress**:
 1. Finished the module on "text" for Stanford's Code in Place 2021 class;
 2. Did a 2-hour pairing programming session on JavaScript with Techtonica applicants and volunteers;
-3. Refreshed myself on Git command line knowledge from the Odin Project curriculum in preparation for posting my projects online.
+3. Refreshed myself on Git command line knowledge from the Odin Project curriculum in preparation for tracking and pushing my projects online using command lines.
 
 **Thoughts:** Pair programming and workshops provide great opportunity for me to learn from others - both industry professionals who are ahead of me, and fellow bootcamp applicants who are climbing the learning curve like me. It is important to find my own community and group where I feel safe and comfortable to communicate and learn together.   
 
