@@ -1,15 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 5: May 22, 2021
+
+**Today's Progress**:
+1. Finished the module on "data science" for Stanford's Code in Place 2021 class;
+2. Did a couple freeCodeCamp algorithm exercices.
+
+**Thoughts:** MDN's reference on JS makes me realize that comprehensive and high quality documentation is extremely important. Documenting in and if itself is an art!
+
+**Link to work:** 
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 ### Day 4: May 21, 2021
 
 **Today's Progress**:
 1. Finished the module on "files" for Stanford's Code in Place 2021 class;
 2. Did a couple freeCodeCamp algorithm exercices.
 
+**Thoughts:** Algorithm coding challenges can be tricky and sometimes require out-of-the-box solutions. I need to practice this type of questions more and hopefully I can start consistently practicing using LeetCode soon after finishing the freeCodeCamp ones. 
+
 **Link to work:** 
 [freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
-
-**Thoughts:** Algorithm coding challenges can be tricky and sometimes require out-of-the-box solutions. I need to practice this type of questions more and hopefully I can start consistently practicing using LeetCode soon after finishing the freeCodeCamp ones. 
 
 
 ### Day 3: May 20, 2021
