@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 6: May 23, 2021
+
+**Today's Progress**:
+1. Finished week 2 module on "Higher-Order Functions" for Berkeley's CS61A Structure and Interpretation of Computer Programs class;
+2. Finished freeCodeCamp's basic algorithm exercices.
+
+**Thoughts:** Data structure and algorithms are challenging but critical concepts for laying a solid foundation of CS and for future technical interviews. Feeling good about making progress every day!
+
+**Link to work:** 
+
+[Berkeley CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+
 ### Day 5: May 22, 2021
 
 **Today's Progress**:
@@ -9,6 +21,7 @@
 **Thoughts:** MDN's reference on JS makes me realize that comprehensive and high quality documentation is extremely important. Documenting in and if itself is an art!
 
 **Link to work:** 
+
 [freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
 
 ### Day 4: May 21, 2021
