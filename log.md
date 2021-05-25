@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 7: May 24, 2021
+
+**Today's Progress**:
+1. Finished week 2 module on "Environments" for Berkeley's CS61A Structure and Interpretation of Computer Programs class;
+2. Completed several freeCodeCamp OOP exercices.
+
+**Thoughts:** Finally starting the OOP of JavaScript! So excited!
+
+**Link to work:** 
+
+[Berkeley CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+
 ### Day 6: May 23, 2021
 
 **Today's Progress**:
