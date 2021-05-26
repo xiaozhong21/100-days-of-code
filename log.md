@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 8: May 25, 2021
+
+
+**Today's Progress**:
+1. Did a 2-hour pairing programming session on JavaScript with Techtonica applicants and volunteers;
+2. Completed several freeCodeCamp OOP exercices.
+
+**Thoughts:** The learning of OOP makes me realize how powerful and efficient OOP can be when coding for complicated problems. Currently the study of OOP on freeCodeCamp still seems fragmented; can't wait to learn more about it so I can apply it in solving a relatively complex code challenge.
+
+**Link to work:** 
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 ### Day 7: May 24, 2021
 
 **Today's Progress**:
