@@ -4,6 +4,18 @@
 
 
 **Today's Progress**:
+1. Started the Responsive Web Design section on freeCodeCamp following the Odin Project.
+2. Completed several OOP exercises on FCC.
+
+**Thoughts:** While I keep consolidating JavaScript skills in preparation for Techtonica's application workshops, I am excited to start the new section of front-end development on The Odin Project! Things start to connect with all the previously moving pieces - JS, HTML, CSS... Feeling super stoked! 
+
+**Link to work:** 
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
+### Day 8: May 25, 2021
+
+**Today's Progress**:
 1. Did a 2-hour pairing programming session on JavaScript with Techtonica applicants and volunteers;
 2. Completed several freeCodeCamp OOP exercices.
 
