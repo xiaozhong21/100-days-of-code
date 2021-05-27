@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 8: May 25, 2021
+### Day 9: May 26, 2021
 
 
 **Today's Progress**:
