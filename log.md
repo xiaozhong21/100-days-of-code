@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: May 27, 2021
+
+
+**Today's Progress**:
+More freeCodeCamp challenges on HTML/CSS and JS (reviewing completed challenges to get more familiarized with JS syntax).
+
+**Thoughts:** It's all about practice and repetition! 
+
 ### Day 9: May 26, 2021
 
 
