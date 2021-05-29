@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 11: May 28, 2021
+
+**Today's Progress**:
+More freeCodeCamp challenges on HTML/CSS (following The Odin Project) and JS (reviewing completed challenges to get more familiarized with JS syntax).
+
+**Thoughts:** Reviewing previously finished exercises definitely helps reinforce memory. Still have a long way to go!
+
 ### Day 10: May 27, 2021
 
 
