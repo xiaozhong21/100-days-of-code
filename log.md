@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: May 29, 2021
+
+**Today's Progress**:
+1. Marching my way to "Functional Programming" on freeCodeCamp! 
+2. Started "Applied Visual Design" section on freeCodeCamp as required by The Odin Project.
+
+**Thoughts:** Functional programming can be quite tricky but following the principles can help avoid potential pitfalls: use isolated, pure functions with limited side effects.
+
 ### Day 11: May 28, 2021
 
 **Today's Progress**:
