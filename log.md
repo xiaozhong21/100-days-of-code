@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 13: May 30, 2021
+
+**Today's Progress**:
+1. More "Functional Programming" challenges on freeCodeCamp;
+2. Continued with more exercises on "Applied Visual Design" section on freeCodeCamp as following The Odin Project.
+
+**Thoughts:** Higher-order functions map(), filter(), reduce() are very flexible in solving a large variety of algorithm problems. I am getting more comfortable with them but still need to practice more!
+
+**Link to work:** 
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 ### Day 12: May 29, 2021
 
 **Today's Progress**:
