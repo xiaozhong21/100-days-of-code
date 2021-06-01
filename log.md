@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14: May 31, 2021
+
+**Today's Progress**:
+1. Completed all "Functional Programming" challenges on freeCodeCamp. Yay.
+2. Continued with more exercises on "Applied Visual Design" section on freeCodeCamp as following The Odin Project.
+
+**Thoughts:** Programming is all about logical thinking and muscle memory. Practice makes perfect - I can see my progress by the day!
+
+**Link to work:** 
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 ### Day 13: May 30, 2021
 
 **Today's Progress**:
