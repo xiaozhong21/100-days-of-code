@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 16: June 2, 2021
+
+**Today's Progress**:
+1. Attended Techtonica's application workshop #2 and worked on some coding challenges in three pairing sessions;
+2. Reviewed OOP section on FCC and went through Codesmith's OOP tutorial on CSX platform.
+
+**Thoughts:** Solving coding challenges in groups is a lot of fun! It's always good to have another fresh pair of eyes looking at my codes and debugging for me :)
+
+**Link to work:** 
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+[Codesmith's CSX learning platform](https://csx.codesmith.io/)
+
+### Day 15: June 1, 2021
+
+**Today's Progress**: Attended Techtonica's application workshop #1 and paired with three partners to work on FCC's OOP tutorial.
+
+**Thoughts:** Today's key takeaway is that different people have different styles and being flexible in a team environment is very important for effective communication. I learned how to be versatile in my communication style when I paired with different partners.
+
+
 ### Day 14: May 31, 2021
 
 **Today's Progress**:
