@@ -11,6 +11,7 @@
 **Link to work:** 
 
 [freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 [Codesmith's CSX learning platform](https://csx.codesmith.io/)
 
 ### Day 15: June 1, 2021
