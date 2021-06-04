@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: June 3, 2021
+
+**Today's Progress**: Finished the "Applied Accessibility" section on FCC and ready to begin the "Responsive Web Design Principles" section.
+
+**Thoughts:** Accessibility is a deep topic and can be maximized using a combination of content (i.e. using descriptive link text), structure (i.e. using proper and hierarchical tags), and style (i.e. using high contrasting colors). Excited to learn more about this topic as I advance in my front-end study!
+
+**Link to work:** 
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 ### Day 16: June 2, 2021
 
 **Today's Progress**:
