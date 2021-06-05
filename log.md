@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 18: June 4, 2021
+
+**Today's Progress**: 
+1. Worked on freeCodeCamp CSS Flexbox exercises;
+2. Started the free intro course on HTML and CSS of Practicum platform.
+
+**Thoughts:** Still trying out different platforms to supplement my main focus on The Odin Project. So far loving the Practicum style which is pretty interactive. 
+
+**Link to work:** 
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+[Practicum by Yandex Basics of HTML & CSS free course](https://practicum.yandex.com/profile/web/)
+
 ### Day 17: June 3, 2021
 
 **Today's Progress**: Finished the "Applied Accessibility" section on FCC and ready to begin the "Responsive Web Design Principles" section.
