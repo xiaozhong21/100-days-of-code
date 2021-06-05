@@ -11,6 +11,7 @@
 **Link to work:** 
 
 [freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 [Practicum by Yandex Basics of HTML & CSS free course](https://practicum.yandex.com/profile/web/)
 
 ### Day 17: June 3, 2021
