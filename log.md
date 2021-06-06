@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 19: June 5, 2021
+
+**Today's Progress**: 
+1. Finished the Responsive Web Design tutorial on freeCodeCamp;
+2. Moved on to Developer Tools section on The Odin Project.
+
+**Thoughts:** There are many moving pieces involved in HTML and CSS that are not so straightforward at first sight. It will definitely take time and practice for me to get familiar with those different elements, tags, properties, attributes, etc. Can't wait to apply some of my newly learned skills in a project :)
+
+**Link to work:** 
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 ### Day 18: June 4, 2021
 
 **Today's Progress**: 
