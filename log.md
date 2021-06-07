@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 20: June 6, 2021
+
+**Today's Progress**: Kept learning HTML/CSS on the Practicum platform while starting to experiment my first project for The Odin Project - replicating a Google homepage.
+
+**Thoughts:** Putting the concepts and skills learned from tutorials into a real-world project requires much more thinking and reflection than I expected. But I have no doubt that it will be a good and productive time and valuable learning opportunity!
+
+
 ### Day 19: June 5, 2021
 
 **Today's Progress**: 
