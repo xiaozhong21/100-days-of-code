@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 21: June 7, 2021
+
+**Today's Progress**: 
+1. Completed a technical interview with Techtonica and did a quick pairing session with Cristina on my OOP codes;
+2. Finished the JavaScript Fundamentals part 1 for The Odin Project.
+
+**Thoughts:** So excited to finish the technical interview and get invited to the final stage for Techtonica's software engineering program! I love this awesome community of people who are trying to bridge the representation gap in tech. I hope to be able to give back to this amazing group and help bring in more women with untraditional backgrounds :)  
+
+**Link to work:** 
+
+[My progress on The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
+
 ### Day 20: June 6, 2021
 
 **Today's Progress**: Kept learning HTML/CSS on the Practicum platform while starting to experiment my first project for The Odin Project - replicating a Google homepage.
