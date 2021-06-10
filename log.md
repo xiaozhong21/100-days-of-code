@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 21: June 7, 2021
+### Day 23: June 9, 2021
 
 **Today's Progress**: Finished the Basic CSS Properties section of the Practicum introductory course.
 
