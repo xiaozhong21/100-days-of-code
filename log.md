@@ -2,6 +2,18 @@
 
 ### Day 21: June 7, 2021
 
+**Today's Progress**: Finished the Basic CSS Properties section of the Practicum introductory course.
+
+**Thoughts:** I am so thrilled about completing the Board Interview (with Krys Flores) today with Techtonica! Krys is so awesome :) I am super amazed by the fact that she offered 1:1 mentoring sessions last year during pandemic and talked to 50 people! She is definitely my role model and I hope one day I can transition from a mentee to being a mentor like her.
+
+### Day 22: June 8, 2021
+
+**Today's Progress**: Continued working on the JavaScript section of The Odin Project foundations course.
+
+**Thoughts:** Repetition always helps! Though I have already encountered some concepts multiple times when I learned Python and later JavaScript, it is always helpful to see them one more time.
+
+### Day 21: June 7, 2021
+
 **Today's Progress**: 
 1. Completed a technical interview with Techtonica and did a quick pairing session with Cristina on my OOP codes;
 2. Finished the JavaScript Fundamentals part 1 for The Odin Project.
