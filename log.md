@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: June 10, 2021
+
+**Today's Progress**: Finished the 4-chapter introductory course of the Practicum course.
+
+**Thoughts:** CSS manipulation can get complicated and tricky as more elements and classes are added. I still need to practice more and get comfortable using various properties to achieve the exact effects I want the web page to look like.
+
 ### Day 23: June 9, 2021
 
 **Today's Progress**: Finished the Basic CSS Properties section of the Practicum introductory course.
