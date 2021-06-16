@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 25: June 15, 2021
+
+**Today's Progress**: Finished "Fundamentals Part 2" of The Odin Project.
+
+**Thoughts:** Finally got back on track with TOP after juggling several interviews and obligations. I realize that I actually MISS coding and can't wait to come back to it! Now the serious learning mode ON! :)
+
 ### Day 24: June 10, 2021
 
 **Today's Progress**: Finished the 4-chapter introductory course of the Practicum course.
