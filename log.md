@@ -1,11 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 26: June 16, 2021
+
+**Today's Progress**: Finished "Developer Tools 2" of The Odin Project.
+
 ### Day 25: June 15, 2021
 
 **Today's Progress**: Finished "Fundamentals Part 2" of The Odin Project.
 
-**Thoughts:** Finally got back on track with TOP after juggling several interviews and obligations. I realize that I actually MISS coding and can't wait to come back to it! Now the serious learning mode ON! :)
+**Thoughts:** Finally got back on track with TOP after juggling several obligations. I realize that I actually MISS coding and can't wait to come back to it! Now the serious learning mode ON! :)
 
 ### Day 24: June 10, 2021
 
