@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 27: June 17, 2021
+
+**Today's Progress**: Finished half of "Fundamentals Part 3" of The Odin Project.
+
+**Thoughts:** A bit of coding a day keeps the forgetting away! Towards the goal of making coding part of my muscle memory, I feel a little more confident by the day. Definitely need to keep this up :)
+
+**Link to work:** 
+
+[My progress on The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
 
 ### Day 26: June 16, 2021
 
