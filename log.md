@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 28: June 18, 2021
+
+**Today's Progress**: Finished "Fundamentals Part 3" of The Odin Project.
+
+**Thoughts:** Up to this point, the JS fundamentals are a review of what I have learned from working through the corresponding section on freeCodeCamp. But this time I definitely feel more comfortable and confident about the basic JS coding knowledge. Practice, practice, practice!
+
 ### Day 27: June 17, 2021
 
 **Today's Progress**: Finished half of "Fundamentals Part 3" of The Odin Project.
