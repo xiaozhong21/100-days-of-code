@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 29 June 19, 2021
+
+**Today's Progress**: Finished "Foundations -> JavaScript Basics -> Problem Solving"  of The Odin Project.
+
+**Thoughts:** This section talks about the high-level approaches in solving a problem. Two very useful strategies to use are pseudo code and decomposing. I think this planning and brainstorming process is the most challenging part of problem solving - once this is done, all that left is to execute the plan by writing specific codes!
+
+**Link to work:** 
+
+[My progress on The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
+
 ### Day 28: June 18, 2021
 
 **Today's Progress**: Finished "Fundamentals Part 3" of The Odin Project.
