@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 29 June 19, 2021
+### Day 30: June 20, 2021
+
+**Today's Progress**: Finished "Foundations -> JavaScript Basics -> Understanding Errors" section of The Odin Project.
+
+### Day 29: June 19, 2021
 
 **Today's Progress**: Finished "Foundations -> JavaScript Basics -> Problem Solving"  of The Odin Project.
 
