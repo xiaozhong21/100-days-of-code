@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 31: June 22, 2021
+
+**Today's Progress**: 
+1. Finished "Foundations -> JavaScript Basics -> Clean Code" section of The Odin Project.
+2. Worked on Techtonica's pre-work (Udacity's Git course) and finished week 1 exercise. 
+
+**Thoughts:**  Things start to click and connect now that I start learning Techtonica curriculum. After several rounds of review and deeper dive into the same subjects, the muscle memories are gradually forming!
+
+**Link to work:** 
+
+[My progress on The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
+
+[Week 1 exercise: variables](https://github.com/xiaozhong21/curriculum/blob/main/prework/1_VariablesExercise.js)
+
+[Week 1 exercise: conditionals](https://github.com/xiaozhong21/curriculum/blob/main/prework/2_ConditionalsExercise.js)
+
 ### Day 30: June 20, 2021
 
 **Today's Progress**: Finished "Foundations -> JavaScript Basics -> Understanding Errors" section of The Odin Project.
