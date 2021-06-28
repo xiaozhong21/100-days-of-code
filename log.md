@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 33: June 27, 2021
+
+**Today's Progress**: 
+1. Finished "Foundations -> JavaScript Basics -> Fundamentals Part 4" section of The Odin Project.
+2. Worked on Techtonica's pre-work and finished week 3 exercise on functions. 
+
+**Link to work:** 
+
+[My progress on The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
+
+[Week 3 exercise: functions](https://github.com/xiaozhong21/techtonica-prework/blob/main/4_FunctionsExercise.js)
+
+### Day 32: June 25, 2021
+
+**Today's Progress**: 
+1. Finished half of "Foundations -> JavaScript Basics -> Fundamentals Part 4" section of The Odin Project.
+2. Worked on Techtonica's pre-work and finished week 2 exercise on loops, arrays, and objects. 
+
+**Link to work:** 
+
+[My progress on The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
+
+[Week 2 exercise: loops](https://github.com/xiaozhong21/techtonica-prework/blob/main/3_LoopsExercise.js)
+
+[Week 2 exercise: arrays and objects](https://github.com/xiaozhong21/techtonica-prework/blob/main/5_ArraysObjectsExercise.js)
+
 ### Day 31: June 22, 2021
 
 **Today's Progress**: 
@@ -12,9 +38,9 @@
 
 [My progress on The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
 
-[Week 1 exercise: variables](https://github.com/xiaozhong21/curriculum/blob/main/prework/1_VariablesExercise.js)
+[Week 1 exercise: variables](https://github.com/xiaozhong21/techtonica-prework/blob/main/1_VariablesExercise.js)
 
-[Week 1 exercise: conditionals](https://github.com/xiaozhong21/curriculum/blob/main/prework/2_ConditionalsExercise.js)
+[Week 1 exercise: conditionals](https://github.com/xiaozhong21/techtonica-prework/blob/main/2_ConditionalsExercise.js)
 
 ### Day 30: June 20, 2021
 
