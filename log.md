@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 34: July 5, 2021
+
+**Today's Progress**: 
+1. Finished half of "Foundations -> JavaScript Basics -> DOM Manipulation" section of The Odin Project.
+2. Worked on freeCodeCamp's intermediate algorithm scripting as part of Techtonica's pre-work.
+
+**Link to work:** 
+
+[My progress on The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
+
+[freeCodeCamp timeline](https://www.freecodecamp.org/xzhong21)
+
 ### Day 33: June 27, 2021
 
 **Today's Progress**: 
